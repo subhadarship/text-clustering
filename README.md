@@ -4,9 +4,10 @@ clustering text data (data mining fall 2019)
 NOTE: `present.html` is created using revel.js
 
 ## TODO
-- [ ] large data
+- [x] large data LDA
 - [ ] find optimum number of clusters for LDA
-- [ ] neural models
+- [ ] visualize results LDA
+- [x] large data neural models
 - [ ] find optimum number of clusters for neural models
-- [ ] visualize results
+- [ ] visualize results neural models
 - [ ] *open source k-means pytorch*
