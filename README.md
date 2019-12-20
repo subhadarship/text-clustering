@@ -9,3 +9,4 @@ NOTE: `present.html` is created using revel.js
 - [ ] neural models
 - [ ] find optimum number of clusters
 - [ ] visualize results
+- [ ] open source k-means pytorch
