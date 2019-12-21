@@ -7,6 +7,6 @@ NOTE: `present.html` is created using revel.js
 - [x] large data LDA
 - [ ] visualize results LDA
 - [x] large data neural models (check k-means time)
-- [ ] find optimum number of clusters for neural models
-- [ ] visualize results neural models
+- [x] find optimum number of clusters for neural models
+- [x] visualize results neural models
 - [ ] *open source k-means pytorch*
