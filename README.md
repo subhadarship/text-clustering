@@ -4,7 +4,8 @@
 
 clustering text data (data mining fall 2019)
 
-NOTE: `present.html` is created using revel.js
+## NOTE
+`present.html` is created using revel.js
 
 ## TODO
 - [x] big data LDA (still less than a million samples)
