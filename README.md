@@ -4,7 +4,7 @@
 
 clustering text data (data mining fall 2019)
 
-## NOTE
+## NOTES
 - `present.html` is created using revel.js
 - `topic_modeling_big.ipynb` uses more data for LDA than `topic_modeling.ipynb`. But it still cannot handle very large data (e.g. 1M)
 
