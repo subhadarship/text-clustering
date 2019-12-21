@@ -1,4 +1,7 @@
 # text-clustering
+
+![Alt Text](https://media.giphy.com/media/VSYyrK0MzKSyI/giphy.gif)
+
 clustering text data (data mining fall 2019)
 
 NOTE: `present.html` is created using revel.js
