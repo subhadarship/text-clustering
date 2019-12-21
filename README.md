@@ -12,4 +12,3 @@ NOTE: `present.html` is created using revel.js
 - [x] large data neural models (check k-means time)
 - [x] find optimum number of clusters for neural models
 - [x] visualize results neural models
-- [ ] *open source k-means pytorch*
