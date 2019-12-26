@@ -5,8 +5,8 @@
 clustering text data (data mining fall 2019)
 
 ## NOTES
-- `present.html` is created using revel.js
-- `topic_modeling_big.ipynb` uses more data for LDA than `topic_modeling.ipynb`. But it still cannot handle very large data (e.g. 1M)
+- [`present.html`](https://github.com/subhadarship/text-clustering/blob/master/present.html) is created using revel.js
+- [`topic_modeling_big.ipynb`](https://github.com/subhadarship/text-clustering/blob/master/topic_modeling_big.ipynb) uses more data for LDA than [`topic_modeling.ipynb`](https://github.com/subhadarship/text-clustering/blob/master/topic_modeling.ipynb). But it still cannot handle very large data (e.g. 1M)
 
 ## TODO
 - [x] big data LDA (still less than a million samples)
@@ -16,4 +16,4 @@ clustering text data (data mining fall 2019)
 - [x] visualize results neural models
 
 ## write up
-see `text_clustering.pdf`
+see [`text_clustering.pdf`](https://github.com/subhadarship/text-clustering/blob/master/text_clustering.pdf)
