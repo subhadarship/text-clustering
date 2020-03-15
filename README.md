@@ -17,3 +17,7 @@ clustering text data (data mining fall 2019)
 
 ## write up
 see [`text_clustering.pdf`](https://github.com/subhadarship/text-clustering/blob/master/text_clustering.pdf)
+
+## LICENSE
+
+[MIT](https://github.com/subhadarship/text-clustering/tree/master/LICENSE)
