@@ -1,4 +1,4 @@
-# Text clustering
+# Text Clustering
 
 ![Alt Text](https://media.giphy.com/media/VSYyrK0MzKSyI/giphy.gif)
 
